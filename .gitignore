@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Next.js
+node_modules/
+.next/
+
+# Dataset
+dataset/
+
+# Model weights
+*.pth
+*.pt
+
+# Mac
+.DS_Store
+
+# Env files
+.env
+.env.local
